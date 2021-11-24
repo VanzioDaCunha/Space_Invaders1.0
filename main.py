@@ -55,7 +55,7 @@ ship.penup()
 ship.goto(0, -200)
 ship.direction = "stop"
 ship.shoot = 5
-ship.score = 9500
+ship.score = 0
 
 # hearts
 hrt1 = turtle.Turtle()
